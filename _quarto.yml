@@ -11,8 +11,8 @@ website:
         text: Home
       - section: "Reports"
         contents:
-          - href: report1.qmd
-          - href: report2.qmd
+          - href: Introduction.qmd
+          - href: Methods.qmd
       - about.qmd
 
 format:

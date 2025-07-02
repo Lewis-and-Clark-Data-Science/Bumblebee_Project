@@ -10,17 +10,6 @@
     ]
   },
   {
-    "objectID": "report1.html",
-    "href": "report1.html",
-    "title": "Report 1",
-    "section": "",
-    "text": "Here is report 1!",
-    "crumbs": [
-      "Reports",
-      "Report 1"
-    ]
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About My Analytics Project",
@@ -31,14 +20,25 @@
     ]
   },
   {
-    "objectID": "report2.html",
-    "href": "report2.html",
-    "title": "Report 2",
+    "objectID": "Methods.html",
+    "href": "Methods.html",
+    "title": "Methods",
     "section": "",
-    "text": "Here is report 2!",
+    "text": "Here is our methods!",
     "crumbs": [
       "Reports",
-      "Report 2"
+      "Methods"
+    ]
+  },
+  {
+    "objectID": "Introduction.html",
+    "href": "Introduction.html",
+    "title": "Introductions",
+    "section": "",
+    "text": "Here is our introduction!\n\n\nCode\n#hello!",
+    "crumbs": [
+      "Reports",
+      "Introductions"
     ]
   }
 ]

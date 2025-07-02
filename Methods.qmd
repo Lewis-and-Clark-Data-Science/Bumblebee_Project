@@ -1,9 +1,9 @@
 ---
-title: "Report 1"
+title: "Methods"
 format: html
 editor: visual
 execute:
   warning: false
 ---
 
-Here is report 1!
+Here is our methods!
